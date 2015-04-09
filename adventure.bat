@@ -1,6 +1,6 @@
 :#########################################################################################
-:# published under the x-license 														                             #
-:# Copyright (c) 2015 http://www.creator110.com 										                     #
+: published under the x-license 														                             
+: Copyright (c) 2015 http://www.creator110.com 										                     
 :#########################################################################################
 
 :stellt den Echoprompt ab
