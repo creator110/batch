@@ -10,14 +10,14 @@
 TITLE Super Zoellner
 
 :setzt die Farbe vom Hintergrund(0) und der Schrift(3)	
-: 0 Schwarz			8 Dunkelgrau						
-: 1 Dunkelblau		9 Blau								
-: 2 Dunkelgruen		A Gruen								
-: 3 Blaugruen		B Zyan								
-: 4 Dunkelrot		C Rot								
-: 5 Lila			D Magenta							
-: 6 Ocker			E Gelb								
-: 7 Hellgrau		F Weiss 							
+: 0 Schwarz.........8 Dunkelgrau						
+: 1 Dunkelblau......9 Blau								
+: 2 Dunkelgruen.....A Gruen								
+: 3 Blaugruen.......B Zyan								
+: 4 Dunkelrot.......C Rot								
+: 5 Lila............D Magenta							
+: 6 Ocker...........E Gelb								
+: 7 Hellgrau........F Weiss 							
 COLOR 03
 
 : Startbildschirm
